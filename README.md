@@ -4,8 +4,8 @@
 
 ## Part1
 Baseline sand, snow.  
-<img src="PhysGaussian/output/sand/output.gif" width="30%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_n_grid_50/output.gif" width="30%" style="display:inline-block;">
+<img src="output/sand/output.gif" width="30%" style="display:inline-block;">
+<img src="output/snow_n_grid_50/output.gif" width="30%" style="display:inline-block;">
 
 ## Part2
 ### Sand
@@ -14,40 +14,40 @@ Baseline sand, snow.
 |---|----|----|----|----|
 |34.4361 |34.6917    |baseline| 34.772 | 34.2403 |
 
-<img src="PhysGaussian/output/sand_n_grid_10/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand_n_grid_30/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand_n_grid_70/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand_n_grid_100/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_n_grid_10/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_n_grid_30/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_n_grid_70/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_n_grid_100/output.gif" width="18%" style="display:inline-block;">
 
 #### substep_dt:
 |5e-5 | 1e-4 | 2e-4|
 |----|-------|----|
 |34.4104|baseline|33.7762| 
 
-<img src="PhysGaussian/output/sand_sub_step_dt_5e-5/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/sand/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/sand_sub_step_dt_2e-4/output.gif" width="30%" style="display:inline-block;">
+<img src="output/sand_sub_step_dt_5e-5/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/sand/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/sand_sub_step_dt_2e-4/output.gif" width="30%" style="display:inline-block;">
 
 #### grid_v_damping_scale: 
 |0.999|0.9999|1|
 |-|-|-|
 |34.4987| baseline| 34.08|
 
-<img src="PhysGaussian/output/sand_grid_v_999/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/sand/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/sand_grid_v_1/output.gif" width="30%" style="display:inline-block;">
+<img src="output/sand_grid_v_999/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/sand/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/sand_grid_v_1/output.gif" width="30%" style="display:inline-block;">
 
 #### softening:
 |0.05|0.1|0.3|0.6|0.95
 |-|-|-|-|-|
 |48.1832| baseline| 51.6461| 46.5291 | 46.6113
 
-<img src="PhysGaussian/output/sand_soft_0.05/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand_soft_0.3/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand_soft_0.6/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/sand_soft_0.95/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_soft_0.05/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_soft_0.3/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_soft_0.6/output.gif" width="18%" style="display:inline-block;">
+<img src="output/sand_soft_0.95/output.gif" width="18%" style="display:inline-block;">
 
 
 
@@ -57,11 +57,11 @@ Baseline sand, snow.
 |-|----|----|----|----|
 | 35.6909| 37.0375 | baseline| 37.3605 | 37.0354
 
-<img src="PhysGaussian/output/snow_n_grid_10/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_n_grid_30/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_n_grid_50/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_n_grid_70/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_n_grid_100/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_n_grid_10/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_n_grid_30/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_n_grid_50/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_n_grid_70/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_n_grid_100/output.gif" width="18%" style="display:inline-block;">
 
 
 #### substep_dt:
@@ -69,9 +69,9 @@ Baseline sand, snow.
 |----|-------|----|
 |36.2175 | baseline | 37.0120
 
-<img src="PhysGaussian/output/snow_substep_dt_5e_5/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/snow_n_grid_50/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/snow_substep_dt_2e_4/output.gif" width="30%" style="display:inline-block;">
+<img src="output/snow_substep_dt_5e_5/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/snow_n_grid_50/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/snow_substep_dt_2e_4/output.gif" width="30%" style="display:inline-block;">
 
 
 
@@ -80,20 +80,20 @@ Baseline sand, snow.
 |-|-|-|
 |35.9077 | baseline | 37.3180
 
-<img src="PhysGaussian/output/snow_grid_v_999/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/snow_n_grid_50/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
-<img src="PhysGaussian/output/snow_grid_v_1/output.gif" width="30%" style="display:inline-block;">
+<img src="output/snow_grid_v_999/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/snow_n_grid_50/output.gif" width="30%" style="display:inline-block;margin-right:10px;">
+<img src="output/snow_grid_v_1/output.gif" width="30%" style="display:inline-block;">
 
 #### softening:
 |0.05|0.1|0.3|0.6|0.95
 |-|-|-|-|-|
 |79.7885 |baseline| 78.6881 | 79.5434 | 79.1902
 
-<img src="PhysGaussian/output/snow_soft_0.05/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_n_grid_50/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_soft_0.3/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_soft_0.6/output.gif" width="18%" style="display:inline-block;">
-<img src="PhysGaussian/output/snow_soft_0.95/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_soft_0.05/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_n_grid_50/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_soft_0.3/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_soft_0.6/output.gif" width="18%" style="display:inline-block;">
+<img src="output/snow_soft_0.95/output.gif" width="18%" style="display:inline-block;">
 
 ## Analysis
 ### n_grid:
